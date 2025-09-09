@@ -13,4 +13,4 @@ Check the header cells of the notebooks for the exact setup instructions.
 
 
 ## License
-This project is licensed under the [MIT License]
+This project is licensed under the [MIT License](LICENSE)
