@@ -4,10 +4,13 @@
 This repository contains the Jupyter notebooks used in my thesis project.
 
 ## Status
-Code will be uploaded soon. Please check back later.
+Files are being uploaded gradually, one by one.  
+> Full repository expected to be available by **14 September**.  
 
 ## Requirements
-To be added (Python environment setup).
+Each notebook includes its own environment and package specifications at the top.  
+Check the header cells of the notebooks for the exact setup instructions.
+
 
 ## License
-TBD
+This project is licensed under the [MIT License]
