@@ -5,7 +5,7 @@ This repository contains the Jupyter notebooks used in my thesis project.
 
 ## Status
 Files are being uploaded gradually, one by one.  
-> Still 6 files pending for upload
+> Still 2 files pending for upload
 > Full repository expected to be available by **18 November**.  
 
 ## Requirements
